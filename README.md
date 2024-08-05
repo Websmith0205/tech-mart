@@ -1,2 +1,2 @@
-# techmart
+# tech-mart
 hello dhruv
